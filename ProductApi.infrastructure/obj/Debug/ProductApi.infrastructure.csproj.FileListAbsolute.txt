@@ -1,0 +1,14 @@
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\bin\Debug\ProductApi.infrastructure.dll.config
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\bin\Debug\ProductApi.infrastructure.dll
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\bin\Debug\ProductApi.infrastructure.pdb
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\bin\Debug\EntityFramework.dll
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\bin\Debug\ProductApi.core.dll
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\bin\Debug\ProductApi.core.pdb
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\bin\Debug\EntityFramework.xml
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\obj\Debug\ProductApi.infrastructure.csprojAssemblyReference.cache
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\obj\Debug\ProductApi.infrastructure.csproj.CoreCompileInputs.cache
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\obj\Debug\ProductApi.infrastructure.csproj.CopyComplete
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\obj\Debug\ProductApi.infrastructure.dll
+C:\Training-Kanishka\WebApi\ProductApi\ProductApi.infrastructure\obj\Debug\ProductApi.infrastructure.pdb
